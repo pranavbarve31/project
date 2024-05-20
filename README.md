@@ -1,4 +1,4 @@
-# project
+# Object Detection and Counting Project
 
 Objective:
   The main goal was to create a robust system that could efficiently detect and count objects in video footage. This is particularly useful for applications such as monitoring traffic flow in real-time or           analyzing crowd densities at events.
